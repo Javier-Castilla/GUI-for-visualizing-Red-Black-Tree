@@ -8,8 +8,8 @@ class extends the RedBlackTree class and provides additional methods for
 managing the set of elements.
 """
 from typing import *
-from data_utils import TreeNode, SimpleStack
-from tree_set_exceptions import *
+from tree_set.data_utils import TreeNode, SimpleStack
+from tree_set.tree_set_exceptions import *
 from functools import wraps
 
 E = TypeVar('E')
