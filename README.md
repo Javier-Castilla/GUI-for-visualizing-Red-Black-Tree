@@ -1,6 +1,6 @@
 # GUI for visualizing Red-Black Tree
 
-This is a project developed in Python as part of a Data Structure subject belonging to the Conmputer Sciencie degree of the U.L.P.G.C. University for helping to visualize the main developed class, a TreeSet. The GUI could be modified is wanted to visualize other type of trees or structures. Inside the DefaultGUI package can be found the skeleton of the GUI without any functionality implemented.
+This is a project developed in Python as part of a Data Structure subject belonging to the Conmputer Sciencie degree of the U.L.P.G.C. University for helping to visualize the main developed class, a TreeSet. The GUI could be modified is wanted to visualize other type of trees or structures. Inside the ![DefaultGUI](https://github.com/Javier-Castilla/GUI-for-visualizing-Red-Black-Tree/tree/main/DefaultGUI) package can be found the skeleton of the GUI without any functionality implemented.
 
 # Description and fucntionalities
 
