@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 import tkinter as tk
 from tkinter import ttk, messagebox
-from tree_set import *
+from tree_set.tree_set import *
 
 
 class GUI(tk.Tk):
