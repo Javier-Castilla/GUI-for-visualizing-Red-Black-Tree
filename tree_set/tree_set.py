@@ -9,7 +9,7 @@ managing the set of elements.
 """
 from typing import *
 from tree_set.data_utils import TreeNode, SimpleStack
-from tree_set.tree_set_exceptions import *
+from tree_set.tree_set_exception import *
 from functools import wraps
 
 E = TypeVar('E')
